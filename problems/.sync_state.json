@@ -13,6 +13,7 @@
     "combination-sum-ii",
     "container-with-most-water",
     "contains-duplicate",
+    "convert-the-temperature",
     "count-and-say",
     "count-the-digits-that-divide-a-number",
     "daily-temperatures",
@@ -34,11 +35,14 @@
     "middle-of-the-linked-list",
     "missing-number",
     "next-permutation",
+    "palindrome-number",
     "path-sum-ii",
+    "power-of-two",
     "regular-expression-matching",
     "remove-duplicates-from-sorted-array",
     "remove-element",
     "remove-nth-node-from-end-of-list",
+    "reverse-integer",
     "reverse-nodes-in-k-group",
     "richest-customer-wealth",
     "roman-to-integer",
@@ -50,6 +54,7 @@
     "string-to-integer-atoi",
     "substring-with-concatenation-of-all-words",
     "sudoku-solver",
+    "sum-of-good-numbers",
     "swap-nodes-in-pairs",
     "two-sum",
     "valid-parentheses",
@@ -60,5 +65,5 @@
   "backlog_offset": 0,
   "backlog_last_key": null,
   "backlog_exhausted": false,
-  "full_cycles_completed": 0
+  "full_cycles_completed": 1
 }
